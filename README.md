@@ -31,6 +31,7 @@ Product Guide:
  <img width="368" alt="image" src="https://github.com/user-attachments/assets/21068b36-aad9-410d-9f4a-c184a9cd4048" />
 
 Fig 1: Product Home Page.
+
 2.	Input Options: 
 •	Explain the input options available: brand, wine type, or both.
 •	Provide details on the dropdown menus and their options.
@@ -40,42 +41,51 @@ Fig 1: Product Home Page.
   <img width="180" alt="image" src="https://github.com/user-attachments/assets/f4ff6ffa-5d53-457f-ab7f-ca6ff2091d47" />
 
 
-Fig 3: Selecting All Parameter
+Fig 2 & 3: Selecting All Parameter.
+
 3. Review Display:
 •	Describe how reviews are displayed for selected wines or brands.
 •	Emphasize the importance of reviews in decision-making.
 
  <img width="341" alt="image" src="https://github.com/user-attachments/assets/966ffc65-dc82-473d-a604-f9437f7ccd56" />
 
-Fig 4: Default Page
+Fig 4: Default Page.
+
 E. Ways to Use:
 If no specific criteria are selected, the app displays the top five brands present in the dataset and notifies users that no wines match the specified criteria.
 
  <img width="459" alt="image" src="https://github.com/user-attachments/assets/38be5940-9746-44af-9d59-07eb2cadabf7" />
 
-Fig 5: Brand Selected Page
+Fig 5: Brand Selected Page.
+
 When brand is selected, it shows the reviews and also a graph when the review is given and by whom.
 
  <img width="291" alt="image" src="https://github.com/user-attachments/assets/75207c8a-23d5-492d-9dbc-2cfcf31b94d0" />
 
-Fig 6: Brand Selected Page
+Fig 6: Brand Selected Page.
+
 There is slight difference when type only is selected you would be given reviews based on wine type and give recommendations of wines based on similarity in type. Limited the reviews to ten because some brands and types have more than then reviews.
  
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/69aff3d4-c16a-40b9-972f-1304f9055079" />
 
-Fig 7: Type Selected Parameter
+Fig 7: Type Selected Parameter.
+
 When both is given we will see the reviews with top recommendations using cosine similarity.
 
  <img width="452" alt="image" src="https://github.com/user-attachments/assets/5d59a8a1-557f-46f1-9696-ffbc9db1cf48" />
 
 Fig 8: Both Parameters Selected.
  
-Conclusion
+## Conclusion
 In conclusion, the Wine Recommender app offers a comprehensive platform for wine enthusiasts to explore, discover, and evaluate various wines based on their preferences. Through intuitive filtering options and personalized recommendations, users can efficiently navigate through extensive wine selections, ensuring a tailored experience to suit individual tastes. Additionally, the app facilitates informed decision-making by presenting detailed reviews, ratings, and trend analyses. Whether users are seeking new favorites, planning events, or simply expanding their wine knowledge, the Wine Recommender app serves as a valuable tool, enhancing the wine exploration journey and enriching the overall wine appreciation experience.
-References
+
+## References
+
 1.	Deploy your app. Streamlit Docs. (n.d.). https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app 
+
 2.	Git Add - fatal: adding files failed. (n.d.). Stack Overflow.
 https://stackoverflow.com/questions/56675116/git-add-fatal-adding-files-failed
+
 3.	GitHub: Let’s build from here. (n.d.). GitHub. https://github.com/
 
 
